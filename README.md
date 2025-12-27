@@ -22,4 +22,4 @@ from discord.ext import commands
 
 client = commands.Bot(...)
 ```
-- All you need todo is import `discord_ios` in your main file.
+- All you need to do is import `discord_ios` in your main file
